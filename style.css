@@ -22,8 +22,8 @@ img {
   width: 300px;
   height: 300px;
   margin: 10px;
-  transition: all ls;
+  transition: all 1s;
 }
 img:hover {
-  transform: scale(1.2);
+  transform: scale(1.1);
 }
